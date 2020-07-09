@@ -77,8 +77,8 @@ img
     height: 300px;
     width:500px ;
     }
-@media screen and (min-width: 480px) and (max-width: 767px) {
+@media screen and (min-width: 500px) and (max-width: 800px) {
     body {
-            background-color: black;
+            background-color: #3d24ac;
             color: white;}
     }
