@@ -1,11 +1,11 @@
 body {
     background-color: aqua;
 }
-tropical.p
+h2.tropical
     {
         color: #f7325e;
     }
-.tropical 
+p.tropical 
     {
         color: #7dc410;
     }
@@ -14,9 +14,10 @@ tropical.p
         color: #591cbb;
     }
 h1
-    {text-align: center;}
+    {text-align: center;
+    color: #b1b937;}
 img 
-    {
-        width: 20%;
+    {  
+        width: 30%;
         height: 20%;
     }
